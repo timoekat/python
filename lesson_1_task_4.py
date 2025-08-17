@@ -1,5 +1,5 @@
 def print_python():
-    print("Учу Python!")
+    print("Привет, мир!")
 
 
 print_python()
